@@ -1,0 +1,3 @@
+This is the code to reproduce the grokking phenomenon of the algorithmic data with MLP from the ICML2025 paper *Grokking Beyond the Euclidean Norm of Model Parameters* (Notsawo et al., 2025), https://arxiv.org/abs/2506.05718, figures 1, 2 and 30.
+
+See the notebook [algorithmic_dataset_MLP.ipynb](algorithmic_dataset_MLP.ipynb). For all the figures of the paper, refer to the official GitHub repository https://github.com/Tikquuss/grokking_beyong_l2_norm.

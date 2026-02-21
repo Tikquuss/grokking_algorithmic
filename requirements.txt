@@ -1,0 +1,14 @@
+torch
+#torchvision
+matplotlib
+numpy
+pandas
+scikit-learn
+tqdm
+#opencv-python
+#statsmodels 
+#seaborn
+#mod
+#blobfile
+#plotly
+#sympy
